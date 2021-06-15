@@ -1,16 +1,16 @@
 ![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) | [View SDK Wiki](https://github.com/akurateco/akurateco-ios-sdk/wiki) | [Report new issue](https://github.com/akurateco/akurateco-ios-sdk/issues/new)
 
-# Akurateco iOS SDK
+# MontyPay iOS SDK
 
 Akurateco is a white-label payment software provider. Thanks to our 15+ years of experience in the payment industry, we’ve developed a state-of-the-art white-label payment system that ensures smooth and uninterrupted payment flow for merchants across industries.
 
 <p align="center">
   <a href="https://montypay.com">
-      <img src="http://www.montypay.com/images/logo-white-big@2x.png" alt="MontyPay" width="400px"/>
+      <img src="http://www.montypay.com/images/logo-white-big@2x.png" alt="MontyPay" width="320px" height = "154px"/>
   </a>
 </p>
 
-Akurateco iOS SDK was developed and designed with one purpose: to help the iOS developers easily integrate the Akurateco API Payment Platform for a specific merchant. 
+MontyPay iOS SDK was developed and designed with one purpose: to help the iOS developers easily integrate the Akurateco API Payment Platform for a specific merchant. 
 
 The main aspects of the Akurateco iOS SDK:
 
@@ -26,7 +26,7 @@ To get used to the SDK, download a [sample app](https://github.com/akurateco/aku
 Add to the `Podfile`:
 
 ```
-pod 'AkuratecoSDK'
+pod 'MontyPaySDK'
 ```
 
 Latest version is: ![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) 
@@ -45,9 +45,9 @@ Also, it is possible to download the latest artifact from the [releases page](ht
 
 ## Getting help
 
-To report a specific issue or feature request, open a [new issue](https://github.com/akurateco/akurateco-ios-sdk/issues/new).
+To report a specific issue or feature request, open a [new issue](https://github.com/MontyPayAPI/MontyPay-ios-sdk/issues/new).
 
-Or write a direct letter to the [admin@akurateco.com](mailto:admin@akurateco.com).
+Or write a direct letter to the [support@montypay.com](mailto:support@montypay.com).
 
 ## License
 
@@ -57,9 +57,9 @@ MIT License. See the [LICENSE](https://github.com/akurateco/akurateco-ios-sdk/bl
 
 ![](/media/footer.jpg)
 
-Website: https://akurateco.com  
-Phone: [+31-638-7642-70](tel:31638764270)  
-Email: [admin@akurateco.com](mailto:admin@akurateco.com)  
-Address: Akurateco BV, Kingsfordweg 151, 1043 GR Amsterdam, The Netherlands  
+Website: https://www.montypay.com
+Phone: [+31-11111-70](tel:31111111)  
+Email: [support@montypay.com](mailto:support@montypay.com)  
+Address: Swizerland 
 
-© 2014 - 2021 Akurateco. All rights reserved.
+© 2021 MontyPay. All rights reserved.
