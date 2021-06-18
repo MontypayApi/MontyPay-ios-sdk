@@ -1,4 +1,4 @@
-![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) | [View SDK Wiki](https://github.com/akurateco/akurateco-ios-sdk/wiki) | [Report new issue](https://github.com/akurateco/akurateco-ios-sdk/issues/new)
+![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) | [View SDK Wiki](https://github.com/MontypayApi/MontyPay-ios-sdk/wiki) | [Report new issue](https://github.com/MontypayApi/MontyPay-ios-sdk/issues/new)
 
 # MontyPay iOS SDK
 
@@ -18,7 +18,7 @@ The main aspects of the Akurateco iOS SDK:
 - Minimum iOS 11
 - Sample Application
 
-To properly set up the SDK, read [Wiki](https://github.com/MontyPayAPI/MontyPay-ios-sdk/wiki) first.
+To properly set up the SDK, read [Wiki](https://github.com/MontyPayApi/MontyPay-ios-sdk/wiki) first.
 To get used to the SDK, download a [sample app](https://github.com/MontypayApi/MontyPay-ios-sdk/tree/main/Sample).
 
 ## Setup
