@@ -54,7 +54,6 @@ MIT License. See the [LICENSE](https://github.com/MontyPayApi/MontyPay-ios-sdk/b
 
 ## Contacts
 
-![](https://user-images.githubusercontent.com/85153851/122522895-1f24c880-d01f-11eb-8195-07d16055f78a.png)
 
 Website: https://www.montypay.com
 
@@ -62,6 +61,6 @@ Phone: [+31-11111-70](tel:31111111)
 
 Email: [support@montypay.com](mailto:support@montypay.com)
 
-Address: MontyPay - Swizerland 
+Address: MontyPay - UK 
 
 © 2021 MontyPay. All rights reserved.
