@@ -63,4 +63,4 @@ Email: [support@montypay.com](mailto:support@montypay.com)
 
 Address: MontyPay - UK 
 
-© 2021 MontyPay. All rights reserved.
+© 2025 MontyPay. All rights reserved.
